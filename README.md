@@ -40,6 +40,6 @@ PyTorch 1.10.0
 
 3. Test the proposed MANAS:
 
-python test_view
+   'python test_view'
 
 
