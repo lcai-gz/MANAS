@@ -34,4 +34,4 @@ Python 3.6
 PyTorch 1.10.0
 ## Quick Start
 ### Dataset
-You can refer to the following link [[DID-MDN]](https://github.com/hezhangsprinter/DID-MDN "悬停显示") to download Rain1200 dataset. 
+You can refer to the following link [[DID-MDN]](https://github.com/hezhangsprinter/DID-MDN "悬停显示") to download Rain1200 dataset. And one need to pre-process the 
