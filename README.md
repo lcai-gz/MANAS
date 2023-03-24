@@ -1,6 +1,6 @@
 # MANAS
 ## This is an implementation of Multi-scale Attentive Image De-raining Networks via Neural Architecture Search  
-Our paper can be found in [[IEEE]](https://ieeexplore.ieee.org/document/9894375 "悬停显示")
+[[Paper Link]](https://ieeexplore.ieee.org/document/9894375 "悬停显示")(TCSVT 2023)
 ## Abstract
 Multi-scale architectures and attention modules
 have shown effectiveness in many deep learning-based image
@@ -34,4 +34,4 @@ Python 3.6
 PyTorch 1.10.0
 ## Quick Start
 ### Dataset
-You can refer to the following link [[IEEE]](https://ieeexplore.ieee.org/document/9894375 "悬停显示") to download Rain1200 dataset, and 
+You can refer to the following link [[DID-MDN]](https://github.com/hezhangsprinter/DID-MDN "悬停显示") to download Rain1200 dataset. 
