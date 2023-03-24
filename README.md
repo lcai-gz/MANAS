@@ -32,3 +32,6 @@ the superiority of our proposed method.
 ## Requirements
 Python 3.6  
 PyTorch 1.10.0
+## Quick Start
+### Dataset
+You can refer to the following link [[IEEE]](https://ieeexplore.ieee.org/document/9894375 "悬停显示") to download Rain1200 dataset, and 
