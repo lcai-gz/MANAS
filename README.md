@@ -33,5 +33,13 @@ the superiority of our proposed method.
 Python 3.6  
 PyTorch 1.10.0
 ## Quick Start
-### Dataset
-You can refer to the following link [[DID-MDN]](https://github.com/hezhangsprinter/DID-MDN "悬停显示") to download Rain1200 dataset. And one need to pre-process the 
+### Test
+1. Testing images had been uploaded in ./datasets/DID-MDN-test/
+
+2. Pre-trained model (Trained on DID-MDN dataset) had been uploaded in ./eval-EXP/
+
+3. Test the proposed MANAS:
+
+python test_view
+
+
