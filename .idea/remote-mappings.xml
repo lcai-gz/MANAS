@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@sftp://HWL@172.30.154.10:22/home/HWL/anaconda3/envs/pt1.4/bin/python">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/home/HWL/code/Auto-deraining" />
+            </list>
+          </settings>
+        </remote-mappings>
+        <remote-mappings server-id="python@sftp://HWL@172.30.154.3:22/home/HWL/anaconda3/envs/pt1.4/bin/python">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/home/HWL/code/Auto-deraining" />
+            </list>
+          </settings>
+        </remote-mappings>
+        <remote-mappings server-id="python@sftp://HWL@172.30.154.10:22/home/HWL/anaconda3/envs/pt1.8/bin/python" />
+        <remote-mappings server-id="python@sftp://huowl@172.30.154.134:22/home/huowl/anaconda3/envs/pt1.4/bin/python" />
+        <remote-mappings server-id="python@sftp://lcai@172.30.154.55:22/home/lcai/anaconda3/envs/yyds_deraining/bin/python3.6" />
+      </list>
+    </list>
+  </component>
+</project>
