@@ -34,12 +34,17 @@ Python 3.6
 PyTorch 1.10.0
 ## Quick Start
 ### Test
-1. Testing images had been uploaded in ./datasets/DID-MDN-test/
+1. Pre-trained model (Trained on DID-MDN dataset) had been uploaded in ./eval-EXP/
 
-2. Pre-trained model (Trained on DID-MDN dataset) had been uploaded in ./eval-EXP/
+2. Test the proposed MANAS:
 
-3. Test the proposed MANAS:
+   `python test_view.py`
 
-   `python test_view`
+### Train (have two stages: architecture search and model training)
+1. Architecture search stage
+    
+   `python train_search_batch.py`
+   
+2. Model training stage
 
-
+   `python train_model_batch.py`
