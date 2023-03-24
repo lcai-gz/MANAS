@@ -59,7 +59,7 @@ PyTorch 1.10.0
 Please consider cite our work if you find it helpful.
 
 ```
-@article{hou22deep,  
+@article{cai2023multi,  
     title={Multi-scale Attentive Image De-raining Networks via Neural Architecture Search},  
     author={Cai, Lei and Fu, Yuli and Huo, Wanliang and Xiang, Youjun and Zhu, Tao and Zhang, Ying and Zeng Huanqiang and Zeng Delu},  
     journal={IEEE Transactions on Circuits and Systems for Video Technology},  
