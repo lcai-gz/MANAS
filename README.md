@@ -38,16 +38,22 @@ PyTorch 1.10.0
 
 2. Test the proposed MANAS:
 
-   `python test_view.py`
+   ```
+   python test_view.py
+   ```
 
 ### Train (have two stages: architecture search and model training)
 1. Architecture search stage
     
-   `python train_search_batch.py`
+   ```
+   python train_search_batch.py
+   ```
    
 2. Model training stage
 
-   `python train_model_batch.py`
+   ```
+   python train_model_batch.py
+   ```
 
 ## Citation
 Please consider cite our work if you find it helpful.
