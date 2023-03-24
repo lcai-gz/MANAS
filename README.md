@@ -29,4 +29,6 @@ Extensive experimental results on both synthetic and realistic
 rainy images, as well as the down-stream vision applications (i.e.,
 objection detection and segmentation) consistently demonstrate
 the superiority of our proposed method.
-## Requirement
+## Requirements
+Python 3.6  
+PyTorch 1.10.0
