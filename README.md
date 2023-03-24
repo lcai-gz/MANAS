@@ -52,7 +52,8 @@ PyTorch 1.10.0
 ## Citation
 Please consider cite our work if you find it helpful.
 
-```@article{hou22deep,  
+```
+@article{hou22deep,  
     title={Deep Posterior Distribution-based Embedding for Hyperspectral Image Super-resolution},  
     author={Hou, Jinhui and Zhu, Zhiyu and Hou, Junhui and Zeng, Huanqiang and Wu, Jinjian and Zhou, Jiantao},  
     journal={IEEE Transactions on Image Processing},  
@@ -61,4 +62,5 @@ Please consider cite our work if you find it helpful.
     pages={5720-5732},  
     year={2022},  
     doi={10.1109/TIP.2022.3201478}    	  
-}```
+}
+```
